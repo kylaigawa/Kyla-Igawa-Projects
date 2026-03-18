@@ -1,6 +1,7 @@
 Welcome to my academic project portfolio. This repository contains a collection of projects completed throughout my Bachelor's and Master's program.
 
 Repository Structure: 
+
 Project 1 (Weibull Baseball Model): This project investigates the use of the Weibull distribution to model baseball team win percentages using runs scored and runs allowed, extending the traditional Pythagorean won–loss theorem.
 It includes:
 - Weibull distribution modeling for run scoring
